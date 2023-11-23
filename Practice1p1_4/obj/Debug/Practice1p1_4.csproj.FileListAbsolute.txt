@@ -1,0 +1,6 @@
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p1_4\bin\Debug\Practice1p1_4.exe.config
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p1_4\bin\Debug\Practice1p1_4.exe
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p1_4\bin\Debug\Practice1p1_4.pdb
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p1_4\obj\Debug\Practice1p1_4.csproj.CoreCompileInputs.cache
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p1_4\obj\Debug\Practice1p1_4.exe
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p1_4\obj\Debug\Practice1p1_4.pdb

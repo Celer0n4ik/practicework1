@@ -1,0 +1,10 @@
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p8\obj\Debug\Practice1p8.csproj.CoreCompileInputs.cache
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p8\obj\Debug\Practice1p8.csprojAssemblyReference.cache
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p8\bin\Debug\Practice1p8.exe.config
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p8\bin\Debug\Practice1p8.exe
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p8\bin\Debug\Practice1p8.pdb
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p8\obj\Debug\Practice1p8.csproj.CopyComplete
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p8\obj\Debug\Practice1p8.exe
+C:\Users\Celeron4ik\source\repos\Educational_Practice_1\Practice1p8\obj\Debug\Practice1p8.pdb
